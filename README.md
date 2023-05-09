@@ -7,3 +7,6 @@
 ## Created By: 
 * Sharvi Endait
 * Mansi Gundre
+
+## References :
+*  [VADER](https://www.analyticsvidhya.com/blog/2021/06/vader-for-sentiment-analysis/)
